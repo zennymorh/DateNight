@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">DateNight</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="one">What is your ideal date?</string>
+    <string name="two">What is my most attractive quality about me that isn’t physical?</string>
+    <string name="three">Updated dealbreakers</string>
+    <string name="four">What scares you the most about me?</string>
+    <string name="five">What do you think I think about?</string>
+    <string name="six">What are you most scared of?</string>
+    <string name="seven">Where do you see yourself in five years?</string>
+    <string name="eight">What is my worst quality?</string>
+    <string name="nine">What is your favourite thing to do?</string>
+    <string name="ten">What do you think is your worst quality?</string>
+    <string name="eleven">From the time we met each other, how do you think I\'ve changed</string>
+    <string name="twelve">How would you describe what you think my type is?</string>
+    <string name="thirteen">What was your first impression of me?</string>
+    <string name="fourteen">How would you describe what you think my type is?</string>
+    <string name="fifteen">How would you describe the feeling of being in love in one word?</string>
+    <string name="sixteen">How old do you feel emotionally?</string>
+    <string name="seventeen">What lesson took you the longest to learn?</string>
+    <string name="eighteen">Ask a question you would be afraid to ask normally.</string>
+</resources>
